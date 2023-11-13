@@ -1,23 +1,27 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="難問を解けるか解けないか"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「数学の問題を解く生徒」[l][r]
 
-メロスは激怒した。[l][r]
+生徒はとある大学の入試問を目の前にした。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+[cm]
 
-(中略)[l][r]
+[bg storage=problems.png time=500]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
+必ず俺は解くぞと心に決めた。[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+しかしどう手をつけようか、絶対値を外したいし極限だしでめちゃくちゃ難問そうだ。[l][r]
+
+うーんこれは難しいね。[l][r]
+生徒は...[l][r]
+
+[link target=*tag_sleep] →解けなかった [endlink][r]
+[link target=*tag_run] →解けた [endlink][r]
 [s]
 
 *tag_sleep
@@ -26,8 +30,8 @@
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+生徒は絶望して死んだように深く眠った。[l][r]
+生徒は自分の学力を恥じた。[r]
 
 【 BAD END 】[l][cm]
 
@@ -35,11 +39,11 @@
 
 *tag_run
 
-[bg storage=run.jpg time=500]
+[bg storage=joy.png time=500]
 
 [cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+生徒は喜んだ。[l][r]
+これで大学に合格できるぞ！！[r]
 
 【 GOOD END 】[l][cm]
 
