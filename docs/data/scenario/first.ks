@@ -1,10 +1,6 @@
 *start
 
-<<<<<<< HEAD
 [title name="難問を解けるか解けないか"]
-=======
-[title name="怒れセリヌンティウス"]
->>>>>>> refs/remotes/origin/main
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
